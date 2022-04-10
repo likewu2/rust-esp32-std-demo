@@ -197,3 +197,9 @@ I (13561) esp_idf_svc::httpd: Registered Httpd IDF server handler Get for URI "/
 I (13561) esp_idf_svc::httpd: Registered Httpd IDF server handler Get for URI "/foo"
 I (13571) esp_idf_svc::httpd: Registered Httpd IDF server handler Get for URI "/bar"
 ```
+
+
+
+D:\.cargo\registry\src\github.com-1ecc6299db9ec823\esp-idf-sys-0.30.6\src\include\esp-idf\bindings.h
+#include "dhcpserver/dhcpserver.h"
+#include "hal/eth_types.h"
